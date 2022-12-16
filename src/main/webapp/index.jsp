@@ -32,6 +32,7 @@ body {
 
 <h1 class="glow">bhargavi</h1>
      
-<h1 class="glow">harshitha</h1>
+<h2 class="glow">harshitha</h2>
+<h3 class="glow">srivalli</h3>
 </body>
 </html>
